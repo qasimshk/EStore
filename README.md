@@ -1,2 +1,2 @@
 # EStore distributed application
-Comming Soon
+Coming Soon
